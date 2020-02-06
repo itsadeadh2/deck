@@ -3,7 +3,7 @@ A simple application that allows users to save cards with questions and answers 
 
 # Project Goals
 
-- Implement the project with as much [DevOps](DevOps-Concepts "DevOps") concepts as possible
+- Implement the project with as much [DevOps](#devops-concepts) concepts as possible
 - Implement the project in a microservice oriented way
 - Use TDD
 - Keep everyting well documented (DDD?)
