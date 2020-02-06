@@ -12,13 +12,11 @@ A simple application that allows users to save cards with questions and answers 
 
 ## DevOps Concepts
 	Todo: Add links to each item
-- Infrastructure as Code (IaC)
-- Build Automation
-- Continous Integration
-- Continuous Delivery
-- Continuous Deployment
-- Configuration Management
-- Orchestration
-- Monitoring
-
-
+- [ ]Infrastructure as Code (IaC)
+- [ ]Build Automation
+- [ ]Continous Integration
+- [ ]Continuous Delivery
+- [ ]Continuous Deployment
+- [ ]Configuration Management
+- [ ]Orchestration
+- [ ]Monitoring
