@@ -8,5 +8,7 @@ A simple application that allows users to save cards with questions and answers 
 - Use IaC (ansible)
 - Use Docker
 - Use Kubernetes
+- Use TDD
+- Keep everyting well documented
 - Create a good and lean development workflow
 - Host the application in GKE 
